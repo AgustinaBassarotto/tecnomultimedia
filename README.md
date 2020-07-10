@@ -1,3 +1,3 @@
 # tecnomultimedia
-mi idea de historia es una en la que una persona sale de su casa y tiene la opciòn de ir caminando hacia la izquierda o la derecha. Si va por la izquierda en un momento se cruzarà con un gato que està perdido, frente a esta situaciòn puede devolverlo con su dueño o seguir caminando. si lo devuelve, el dueño del gato le darà una recompensa, si continùa caminando, en la siguiente cuadra lo chocarà un auto. 
-Si la persona elige ir hacia la derecha en un momento se cruzarà con un vecino, aca tiene la opciòn de seguir caminando o detenerse a conversar un rato. Si sigue caminando, en la siguiente cuadra lo chocarà un auto, si se detiene a charlar, su vecino se sumarà a la caminata.
+Hice una nueva version de caperucita roja con cuatro finales distintos. 
+Falta agregar una intro donde se explique que teclas se utilizan para navegar las historia, y cuando se utiliza el clickk.
